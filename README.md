@@ -40,13 +40,13 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 
 ### Knowing Linux Basics
 
-- [ ] 🐧 14 > [The Big Picture: DevOps and Linux](Days/day14.md)
-- [ ] 🐧 15 > [Linux Commands for DevOps (Actually everyone)](Days/day15.md)
-- [ ] 🐧 16 > [Managing your Linux System, Filesystem & Storage](Days/day16.md)
-- [ ] 🐧 17 > [Text Editors - nano vs vim](Days/day17.md)
-- [ ] 🐧 18 > [SSH & Web Server(LAMP)](Days/day18.md)
-- [ ] 🐧 19 > [Automate tasks with bash scripts](Days/day19.md)
-- [ ] 🐧 20 > [Dev workstation setup - All the pretty things](Days/day20.md)
+- [x] 🐧 14 > [The Big Picture: DevOps and Linux](Days/day14.md)
+- [x] 🐧 15 > [Linux Commands for DevOps (Actually everyone)](Days/day15.md)
+- [x] 🐧 16 > [Managing your Linux System, Filesystem & Storage](Days/day16.md)
+- [x] 🐧 17 > [Text Editors - nano vs vim](Days/day17.md)
+- [x] 🐧 18 > [SSH & Web Server(LAMP)](Days/day18.md)
+- [x] 🐧 19 > [Automate tasks with bash scripts](Days/day19.md)
+- [x] 🐧 20 > [Dev workstation setup - All the pretty things](Days/day20.md)
 
 ### Understand Networking
 
